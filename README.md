@@ -37,8 +37,11 @@ python part1.py
 python part2.py
 ```
 
-part1.py will generate gd_trials_log.csv
-part2.py will generate sgd_trials_log.csv
+### Output Files
+
+- `part1.py` generates: `gd_trials_log.csv`
+- `part2.py` generates: `sgd_trials_log.csv`
+
 
 
 
