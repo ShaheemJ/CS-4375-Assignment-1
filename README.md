@@ -20,7 +20,7 @@ Both parts:
 
 ## Required Python Version
 
-Python 3.9 or higher recommended.
+Python 3.9 or higher
 
 ---
 
